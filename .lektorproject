@@ -1,8 +1,8 @@
 [project]
-name = creativecommons.github.io
+name = akriti.github.io
 
 [servers.ghpages]
-target = ghpages+https://creativecommons/creativecommons.github.io
+target = ghpages+https://akriticode/akriticode.github.io
 
 [packages]
 lektor-markdown-header-anchors = 0.3.1
