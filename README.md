@@ -10,7 +10,7 @@ REPO DIRECTLY**.
 
 ## Overview
 
-This site is built using [Lektor][lektor]. All changes to
+This site    is built using [Lektor][lektor]. All changes to
 [https://creativecommons.github.io][ccgithubio] must be made **here** and
 deployed via lektor (see [Deployment](#deployment), below).
 
@@ -35,7 +35,7 @@ deployed via lektor (see [Deployment](#deployment), below).
 message if the project’s virtual environment is broken][pipenverror]). If all
 else fails, try removing the virtual environment and reinstalling:
 1. `pipenv --rm`
-2. `pipenv install`
+2. `pipenv install` 
 
 [pipenverror]:https://github.com/pypa/pipenv/issues/1918
 
